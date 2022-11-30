@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623491123 source:f:\trail_proj_sec\securityproj\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<map>
+	<string.h>
+	<stdlib.h>
+
